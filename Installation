@@ -1,0 +1,11 @@
+1.Install LOCALHOST
+2.2Install Node.js.
+3.Click on the install.bat file which allows you to install the dependencies.
+4.Create an application by connecting to the Developers Portal on the Discord site then activate the bot options via the Bot tab and retrieve the token.
+5.At the bottom of the Bot tab page, enable the SERVER MEMBERS INTENT Server Members Instent
+6.Invite your bot via the invite link via the OAuth2 tab.
+7.Open the config.json file and enter the requested information.
+8.In the .env file, enter your token.
+9.Finally, to launch the bot, double-click on the start.bat file
+If you have any questions or issues, open a comment in the GitHub Issues tab or message me on discord @L̶̶̶e̶̶̶r̶̶̶k̶̶̶i̶̶̶n̶#0564
+Here are the possible variables in the message configuration of config.json:
